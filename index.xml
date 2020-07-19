@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>codex</title>
-    <link>https://example.org/</link>
-    <description>Recent content on codex</description>
+    <title>JJ&#39;s second life</title>
+    <link>https://sojournre.github.io/</link>
+    <description>Recent content on JJ&#39;s second life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 09 Jul 2020 09:04:11 +0900</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sojournre.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test1</title>
-      <link>https://example.org/post/test1/</link>
-      <pubDate>Thu, 09 Jul 2020 09:04:11 +0900</pubDate>
-      
-      <guid>https://example.org/post/test1/</guid>
-      <description>내 첫 블로그 포스트</description>
-    </item>
     
   </channel>
 </rss>
